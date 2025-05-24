@@ -8,4 +8,4 @@ The presentation [**slides**](/Vectorization_tutorial.pdf) provides an overview 
 
 ## Google Colab
 
-The presentation comes wiht a complementary Google Colab tutorial focused on dense matrix-matrix multiplication, which can be accessed [here](https://colab.research.google.com/drive/1KvndCT38wqO956pQ9x5k29uN2vE8PPUI?usp=sharing).
+The presentation comes wiht a complementary Google Colab tutorial focused on dense matrix-matrix multiplication, which can be accessed [**here**](https://colab.research.google.com/drive/1KvndCT38wqO956pQ9x5k29uN2vE8PPUI?usp=sharing).
